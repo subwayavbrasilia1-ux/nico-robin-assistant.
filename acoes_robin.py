@@ -1,4 +1,3 @@
-
 import sys
 
 # Personalidade da Nico Robin integrada com funções do JARVIS
@@ -22,4 +21,3 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         entrada = sys.argv[1]
         print(responder_robin(entrada))
-      
